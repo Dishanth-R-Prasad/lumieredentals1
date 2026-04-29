@@ -9,7 +9,7 @@ export const Footer = () => {
             <span className="w-9 h-9 rounded-xl bg-primary-gradient grid place-items-center">
               <Sparkles className="w-4 h-4 text-primary-foreground" />
             </span>
-            <span className="font-display text-lg font-semibold">Clove<span className="text-primary">Dental</span></span>
+            <span className="font-display text-lg font-semibold">Lumiere<span className="text-primary">Dental</span></span>
           </div>
           <p className="mt-4 text-sm text-muted-foreground max-w-sm">
             Premium, painless, modern dentistry — designed around your comfort and trusted by thousands of patients.
