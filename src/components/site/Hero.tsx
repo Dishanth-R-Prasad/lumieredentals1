@@ -28,7 +28,7 @@ export const Hero = () => {
             transition={{ duration: 0.8, delay: 0.05 }}
             className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl leading-[1.05] tracking-tight text-foreground"
           >
-            Advanced Dental Care{" "}
+            clove dental{" "}
             <span className="gradient-text italic">For Every Smile</span>
           </motion.h1>
 
