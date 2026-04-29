@@ -36,7 +36,7 @@ export const Navbar = () => {
             <Sparkles className="w-5 h-5 text-primary-foreground" />
           </span>
           <span className="font-display text-xl font-semibold tracking-tight">
-            Clove <span className="text-primary">Dental</span>
+            Lumière <span className="text-primary">Dental</span>
           </span>
         </a>
 
